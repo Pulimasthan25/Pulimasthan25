@@ -6,11 +6,11 @@
   
 </p>
 
-# Hi guys 👋  I'm Masthan Puli
+# Hi guys  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I'm Masthan Puli
 
 
 
-
+ 
 
 
 
