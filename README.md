@@ -12,7 +12,7 @@
  #### 👯‍♂️ I’m looking forward to collaborate on open source projects.
  #### ⚡ Fun fact : Best part of the journey is : It Ends.
   
-  <br>  <br>  
+  <br>    
 </div>
 
 
