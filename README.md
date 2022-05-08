@@ -10,6 +10,7 @@
 #### 💬 Ask me about **WebDev**
 #### 📫 How to reach me: **pulimasthan25@gmail.com**
  #### 👯‍♂️ I’m looking forward to collaborate on open source projects.
+ #### ⚡ Fun fact : Best part of the journey is : It Ends.
   
   <br>  <br>  <br> <br>  
 </div>
