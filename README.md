@@ -1,17 +1,21 @@
-
-
-<p align="center">
-
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-  
-</p>
 <h1 align="center">
  Hi guys  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I'm Masthan Puli   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 </h1>
+<div>
+  <img align ="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="400" height="300">
+
+  #### 🔭 I’m currently working on [Online Image Editor](https://pulimasthan25.github.io/Image-Editor-Code/)
+  #### 🌱 I’m currently learning **Data Structures**
+#### 💬 Ask me about **WebDev**
+#### 📫 How to reach me: **pulimasthan25@gmail.com**
+  
+  <br>  <br>  <br>   <br>  <br>  
+</div>
 
 
 
+  ************************************************************************************************
 
 
 
@@ -35,7 +39,7 @@
     &nbsp;&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a><br><br>
+  </a>
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
@@ -67,13 +71,6 @@
 <a href="https://www.hackerrank.com/pulimasthan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pulimasthan25" height="30" width="24" /></a>
   
   
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
