@@ -47,6 +47,18 @@
   
   
   
+
+
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulimasthan25&show_icons=true&locale=en&layout=compact" alt="pulimasthan25" /></p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@masthanpuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@masthanpuli" height="30" width="24" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/masthanpuli" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="masthanpuli" width="24" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/pulimasthan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pulimasthan25" height="30" width="24" /></a>
   
   
 <!--
