@@ -17,7 +17,7 @@
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  <img src = "https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/github.gif" width = 32px>
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  <img src = "https://drive.google.com/file/d/1BTGZOTFAzvGvqsY3AE1q-AVQkxA4n3E1/view?usp=sharing" width = 32px>
 
 <!--
 - 🔭 I’m currently working on ...
