@@ -9,8 +9,9 @@
   #### 🌱 I’m currently learning **Data Structures**
 #### 💬 Ask me about **WebDev**
 #### 📫 How to reach me: **pulimasthan25@gmail.com**
+ #### 👯 I’m looking forward to collaborate on open source projects.
   
-  <br>  <br>  <br>   <br>  <br>  
+  <br>  <br>  <br>   
 </div>
 
 
