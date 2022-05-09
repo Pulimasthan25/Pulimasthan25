@@ -57,7 +57,7 @@
 </p>
 
 
-<h3 align="left">Connect with me:<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> </h3>
+<h3 align="center">Connect with me:<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> </h3>
 <p align="center">
 <a href="mailto:pulimasthan25@gmail.com">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="masthanpuli" width="24" /></a>&nbsp;&nbsp;&nbsp;
