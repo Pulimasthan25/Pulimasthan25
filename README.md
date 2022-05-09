@@ -5,7 +5,7 @@
 <div>
   <img align ="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="400" height="300">
 
-  #### 🔭 I’m currently working on [Online Image Editor](https://pulimasthan25.github.io/Image-Editor-Code/)
+  #### 🔭 I’m currently working on [Online Image Editor](https://pulimasthan25.github.io/Image-Editor-HCL/)
   #### 🌱 I’m currently learning **Data Structures**
 #### 💬 Ask me about **WebDev**
 #### 📫 How to reach me: **pulimasthan25@gmail.com**
