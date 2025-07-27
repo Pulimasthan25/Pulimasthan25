@@ -25,8 +25,14 @@
 
 
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"></a>
-<br/>
+## 📊 GitHub Stats & Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulimasthan25&theme=radical" alt="GitHub Streak" />
+</div>
+
+
+<!--
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:** 
 
@@ -58,7 +64,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulimasthan25&show_icons=true&locale=en&layout=compact" alt="pulimasthan25" />
-</p>
+</p>-->
 
 
 <h3 align="left">Connect with me:<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> </h3>
