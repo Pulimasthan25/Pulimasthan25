@@ -1,89 +1,91 @@
 <h1 align="center">
- Hi guys  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">  I'm Masthan Puli   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px>
-<!--  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hello+World!+I'm+Masthan!+👋;I'm+a+Front+End+Developer)
--->
+  Hi there 👋 I'm Masthan Puli
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 </h1>
-<div>
-  <img align ="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="400" height="300">
-
-
-  #### 🔭 I’m currently working on [Online Image Editor](https://pulimasthan25.github.io/Image-Editor-HCL/)
-  #### 🌱 I’m currently learning **Data Structures**
-  #### 👀 Have a look at my [Portfolio](https://masthan.netlify.app/) 
-<!-- #### 💬 Ask me about **WebDev** -->
-#### 📫 How to reach me: **pulimasthan25@gmail.com**
- #### 👯‍♂️ I’m looking forward to collaborate on open source projects.
- #### ⚡ Fun fact : At The time of Stress coding, I use to be in half sleeping mode <!--  Best part of the journey is : It Ends. -->
-  
-  
-  <br> <br>    
-</div>
-
-
-
-  ***********************************************************************************************************************************************
-
-
-
-## 📊 GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulimasthan25&theme=radical" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 </div>
 
+---
 
-<!--
+### 👨‍💻 About Me
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:** 
+- 🏢 **Full-Stack Developer @ Accenture** — Building scalable web apps and cloud-integrated solutions
+- 🌐 Hands-on with **Angular**, **Node.js**, and cloud platforms — **AWS**, **GCP**, and **Azure**
+- ⚙️ Currently working on **[Tech Vista](https://demo-techvista.vercel.app/)** — a full-stack B2B platform with job board, applicant tracking & admin dashboard
+- 🌱 Currently exploring **System Design**, **Advanced Cloud Patterns**, and **Backend Architecture**
+- 🏆 Certified: **AWS Cloud Practitioner** | **GCP Associate Cloud Engineer**
+- 👀 Check out my **[Portfolio](https://masthan.netlify.app/)**
+- 📫 Reach me at: **pulimasthan25@gmail.com**
+- 🤝 Open to collaborating on **open-source projects** and **full-stack side projects**
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"  /> </a> 
-&nbsp;&nbsp;&nbsp;
-    
-<a href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>  
-&nbsp;&nbsp;&nbsp;
-    
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-</a>
-&nbsp;&nbsp;&nbsp;
-  
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
+---
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-  
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  alt="java"  width="40"  height="40"/> </a>
+### 🛠️ Tech Stack
 
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live |
+|---|---|---|---|
+| **Tech Vista** | Full-stack B2B platform with job board, applicant tracking, admin dashboard & session management | Angular, Node.js, PostgreSQL | [Demo](https://demo-techvista.vercel.app/) |
+| **Online Image Editor** | Web-based image editor with filters and editing tools | HTML, CSS, JS | [Live](https://pulimasthan25.github.io/Image-Editor-HCL/) |
+| **Employee Tracker** | Employee management system | Angular, Node.js | Repo |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulimasthan25&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulimasthan25&show_icons=true&locale=en&layout=compact" alt="pulimasthan25" />
-</p>-->
-
-
-<h3 align="left">Connect with me:<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> </h3>
 <p align="center">
-<a href="mailto:pulimasthan25@gmail.com">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="masthanpuli" width="24" /></a>&nbsp;&nbsp;&nbsp;
-  
-<a href="https://twitter.com/@masthanpuli" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@masthanpuli" height="30" width="24" />
-</a>
-&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=pulimasthan25&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulimasthan25&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<a href="https://linkedin.com/in/masthanpuli" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="masthanpuli" width="24" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/pulimasthan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pulimasthan25" height="30" width="24" /></a>
-  
-  
+---
 
+### 🔗 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masthanpuli)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulimasthan25@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://masthan.netlify.app/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pulimasthan25)
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pulimasthan25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
