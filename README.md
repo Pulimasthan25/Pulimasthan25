@@ -59,8 +59,8 @@
 | Project | Description | Tech Stack | Live |
 |---|---|---|---|
 | **Tech Vista** | Full-stack B2B platform with job board, applicant tracking, admin dashboard & session management | Angular, Node.js, PostgreSQL | [Demo](https://demo-techvista.vercel.app/) |
+| **Employee Tracker** | Real-time productivity monitoring platform with an Electron desktop agent for app usage, screenshot & browser session tracking. Angular 21 admin dashboard with productivity reports, attendance logs, URL/app analytics, shift management and employee controls | Angular 21, Electron, Firebase, Supabase, TypeScript | [Demo](https://demo-et.vercel.app/) |
 | **Online Image Editor** | Web-based image editor with filters and editing tools | HTML, CSS, JS | [Live](https://pulimasthan25.github.io/Image-Editor-HCL/) |
-| **Employee Tracker** | Employee management system | Angular, Node.js | Repo |
 
 ---
 
@@ -79,13 +79,4 @@
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masthanpuli)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulimasthan25@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://masthan.netlify.app/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pulimasthan25)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pulimasthan25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+[![LinkedIn](h
