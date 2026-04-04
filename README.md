@@ -21,6 +21,16 @@
 - 🤝 Open to collaborating on **open-source projects** and **full-stack side projects**
 
 ---
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live |
+|---|---|---|---|
+| **Tech Vista** | Full-stack B2B platform with job board, applicant tracking, admin dashboard & session management | Angular, Node.js, PostgreSQL | [Demo](https://demo-techvista.vercel.app/) |
+| **Employee Tracker** | Real-time productivity monitoring platform with an Electron desktop agent for app usage, screenshot & browser session tracking. Angular 21 admin dashboard with productivity reports, attendance logs, URL/app analytics, shift management and employee controls | Angular 21, Electron, Firebase, Supabase, TypeScript | [Demo](https://demo-et.vercel.app/) |
+| **Pulse** | Trello-inspired Kanban task manager with real-time collaboration, drag-and-drop boards, role-based sharing (Owner/Admin/Editor/Viewer), activity log, in-app notifications, global search, and dark/light mode | Angular 20, Supabase, Tailwind CSS, TypeScript | [Demo](https://demo-pulse.vercel.app) |
+| **Online Image Editor** | Web-based image editor with filters and editing tools | HTML, CSS, JS | [Live](https://pulimasthan25.github.io/Image-Editor-HCL/) |
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -51,16 +61,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Live |
-|---|---|---|---|
-| **Tech Vista** | Full-stack B2B platform with job board, applicant tracking, admin dashboard & session management | Angular, Node.js, PostgreSQL | [Demo](https://demo-techvista.vercel.app/) |
-| **Employee Tracker** | Real-time productivity monitoring platform with an Electron desktop agent for app usage, screenshot & browser session tracking. Angular 21 admin dashboard with productivity reports, attendance logs, URL/app analytics, shift management and employee controls | Angular 21, Electron, Firebase, Supabase, TypeScript | [Demo](https://demo-et.vercel.app/) |
-| **Online Image Editor** | Web-based image editor with filters and editing tools | HTML, CSS, JS | [Live](https://pulimasthan25.github.io/Image-Editor-HCL/) |
 
 ---
 
