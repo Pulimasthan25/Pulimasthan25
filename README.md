@@ -3,9 +3,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
-</div>
+## Featured projects
+
+| Project | What it does | Links |
+|---|---|---|
+| **Tech Vista** | Job board, applicant tracking, and admin dashboard built with Angular, Node.js, and PostgreSQL. | [Live demo](https://demo-techvista.vercel.app/) |
+| **Pulse** | Collaborative Kanban boards with drag-and-drop and role-based sharing. Built with Angular and Supabase. | [Live demo](https://demo-pulse.vercel.app/) |
+| **Employee Tracker** | Angular dashboard and Electron desktop agent for productivity reporting and attendance. | [Live demo](https://demo-et.vercel.app/) |
+| **Pegasus** | Angular 21 proof of concept with signal-driven telemetry, lazy-loaded routes, and Vitest coverage. | [Source code](https://github.com/Pulimasthan25/Pegasus) |
+| **Online Image Editor** | Browser-based image editing with filters and adjustments, built with HTML, CSS, and JavaScript. | [Source code](https://github.com/Pulimasthan25/Image-Editor-HCL) · [Live demo](https://pulimasthan25.github.io/Image-Editor-HCL/) |
 
 ---
 
@@ -19,16 +25,6 @@
 - 👀 Check out my **[Portfolio](https://masthan.netlify.app/)**
 - 📫 Reach me at: **pulimasthan25@gmail.com**
 - 🤝 Open to collaborating on **open-source projects** and **full-stack side projects**
-
----
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Live |
-|---|---|---|---|
-| **Tech Vista** | Full-stack B2B platform with job board, applicant tracking, admin dashboard & session management | Angular, Node.js, PostgreSQL | [Demo](https://demo-techvista.vercel.app/) |
-| **Employee Tracker** | Real-time productivity monitoring platform with an Electron desktop agent for app usage, screenshot & browser session tracking. Angular 21 admin dashboard with productivity reports, attendance logs, URL/app analytics, shift management and employee controls | Angular 21, Electron, Firebase, Supabase, TypeScript | [Demo](https://demo-et.vercel.app/) |
-| **Pulse** | Trello-inspired Kanban task manager with real-time collaboration, drag-and-drop boards, role-based sharing (Owner/Admin/Editor/Viewer), activity log, in-app notifications, global search, and dark/light mode | Angular 20, Supabase, Tailwind CSS, TypeScript | [Demo](https://demo-pulse.vercel.app) |
-| **Online Image Editor** | Web-based image editor with filters and editing tools | HTML, CSS, JS | [Live](https://pulimasthan25.github.io/Image-Editor-HCL/) |
 
 ---
 
@@ -74,9 +70,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pulimasthan25&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulimasthan25&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-### 🔗 Connect With Me
-
-[![LinkedIn](h
