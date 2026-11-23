@@ -8,9 +8,8 @@
 | Project | What it does | Links |
 |---|---|---|
 | **Tech Vista** | Job board, applicant tracking, and admin dashboard built with Angular, Node.js, and PostgreSQL. | [Live demo](https://demo-techvista.vercel.app/) |
-| **Pulse** | Collaborative Kanban boards with drag-and-drop and role-based sharing. Built with Angular and Supabase. | [Live demo](https://demo-pulse.vercel.app/) |
+| **Pulse** | Collaborative Kanban boards with drag-and-drop and role-based sharing. Built with Angular and Supabase. | [Live demo](https://demo-pulsetest.vercel.app/) |
 | **Employee Tracker** | Angular dashboard and Electron desktop agent for productivity reporting and attendance. | [Live demo](https://demo-et.vercel.app/) |
-| **Pegasus** | Angular 21 proof of concept with signal-driven telemetry, lazy-loaded routes, and Vitest coverage. | [Source code](https://github.com/Pulimasthan25/Pegasus) |
 | **Online Image Editor** | Browser-based image editing with filters and adjustments, built with HTML, CSS, and JavaScript. | [Source code](https://github.com/Pulimasthan25/Image-Editor-HCL) · [Live demo](https://pulimasthan25.github.io/Image-Editor-HCL/) |
 
 ---
